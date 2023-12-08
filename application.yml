@@ -1,5 +1,0 @@
-server:
-  port: 6060
-  
-my:
-greetings: My active profile is default
