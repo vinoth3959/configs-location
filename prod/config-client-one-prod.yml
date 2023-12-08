@@ -1,0 +1,5 @@
+server:
+  port: 8080
+  
+my:
+greetings: My profile is Prod

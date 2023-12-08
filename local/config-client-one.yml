@@ -1,0 +1,5 @@
+server:
+  port: 7070
+  
+my:
+greetings: My active profile is default

@@ -1,0 +1,5 @@
+server:
+  port: 9090
+  
+my:
+greetings: My profile is QA
