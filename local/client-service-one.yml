@@ -2,4 +2,4 @@ server:
   port: 7070
   
 my:
-greetings: My active profile is default
+greetings: My active profile is local
