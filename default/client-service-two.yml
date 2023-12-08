@@ -1,0 +1,5 @@
+server:
+  port: 5051
+  
+my:
+greetings: Active profile is DEFAULT, Application name is client-server-two

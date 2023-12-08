@@ -1,5 +1,5 @@
 server:
-  port: 7070
+  port: 5050
   
 my:
-greetings: My active profile is local
+greetings: Active profile is default, Application name is client-server-one

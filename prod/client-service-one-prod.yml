@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 6060
   
 my:
-greetings: My profile is Prod
+greetings: Active profile is PROD, Application name is client-server-one
