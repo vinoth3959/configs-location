@@ -1,2 +1,5 @@
 server:
   port: 9090
+  
+my:
+greetings: My active profile is ' ${spring.profiles.active} ' and app name is ' ${app.name} '
