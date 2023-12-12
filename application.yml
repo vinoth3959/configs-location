@@ -1,5 +1,0 @@
-server:
-  port: 5050
-  
-my:
-greetings: Active profile is default, Application name is client-server-one
