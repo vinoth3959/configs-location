@@ -1,5 +1,0 @@
-server:
-  port: 6060
-  
-my:
-greetings: Active profile is PROD, Application name is client-server-one

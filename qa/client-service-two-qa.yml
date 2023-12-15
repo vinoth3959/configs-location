@@ -1,5 +1,0 @@
-server:
-  port: 7071
-  
-my:
-greetings: Active profile is QA, Application name is client-server-two
