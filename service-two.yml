@@ -1,5 +1,5 @@
 server:
-  port: 5001
+  port: 6001
   
 my:
-greetings: Active branch is main, Application name is service-two
+greetings: Active branch is one_client, Application name is service-two
