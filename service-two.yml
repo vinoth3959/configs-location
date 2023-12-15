@@ -1,5 +1,5 @@
 server:
-  port: 5999
+  port: 4001
   
 my:
 greetings: Active branch is main, Application name is service-two
