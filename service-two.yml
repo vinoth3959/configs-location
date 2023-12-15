@@ -2,4 +2,4 @@ server:
   port: 5001
   
 my:
-greetings: Active branch is main, Application name is service-two
+greetings: Active branch is qa, Application name is service-two
